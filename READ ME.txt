@@ -1,0 +1,4 @@
+chronometer : This is the code that measures the times and returns the min, max, Q1, Q2, Q3 and C.
+generate_number :  is the code who create the giant number
+
+These two codes have not yet been compiled. If you would like the compiled versions, they are in the folder named 'TEST'. They are called 'Chrono' and 'Generation'. You may have to compile the code again, but it should work.

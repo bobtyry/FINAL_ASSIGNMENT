@@ -1,0 +1,61 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-7575a305f3c11fb62319.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Final_assignement_Mbock_Lignac",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Final_assignement_Mbock_Lignac::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Final_assignement_Mbock_Lignac-Debug-1314787bcf0dae276ba7.json",
+					"name" : "Final_assignement_Mbock_Lignac",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/steev/Documents/\u00e9cole/2025-2026/semestre 2/systeme_info/Final project/Final_assignement_Mbock_Lignac/build/Desktop_Qt_6_8_1_MinGW_64_bit-Debug",
+		"source" : "C:/Users/steev/Documents/\u00e9cole/2025-2026/semestre 2/systeme_info/Final project/Final_assignement_Mbock_Lignac"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}
